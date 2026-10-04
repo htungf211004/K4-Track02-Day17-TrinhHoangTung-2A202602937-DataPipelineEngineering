@@ -1,8 +1,8 @@
 # K4-Track02-Day17 — Report cá nhân
 
 - **Họ tên / MSSV:** Trịnh Hoàng Tùng / 2A202602937
-- **Repo:** Chưa cấu hình repo bài nộp; `origin` hiện vẫn là repo đề bài
-- **Commit bài nộp:** Chưa commit — cập nhật SHA sau khi chốt bài
+- **Repo:** https://github.com/htungf211004/K4-Track02-Day17-TrinhHoangTung-2A202602937-DataPipelineEngineering
+- **Commit bài nộp:** 98fe1f3c674a538e9d38bcfc35431c757c9e74a8
 - **AI đã dùng và phạm vi hỗ trợ:** OpenAI Codex hỗ trợ đọc code, sửa ba lỗi
 - **Nguồn tham khảo khác:** 
 
